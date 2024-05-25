@@ -4,7 +4,7 @@
 
 Hello! I am Ramanidevi Ragupathi, an analytical wizard with a Data Science certification and a strong background in Mathematics. 
 
-Check out my portfolio here: [Ramanidevi Ragupathi Portfolio](https://<your-username>.github.io/<repository-name>/)
+Check out my portfolio here: https://gitramani.github.io/rramanidevi/
 
 ## About Me
 As a recent M.Sc. Mathematics graduate with a keen interest in data analytics and data science, I bring a solid foundation in mathematical principles combined with practical skills in SQL and Python.
