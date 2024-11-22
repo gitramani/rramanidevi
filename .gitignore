@@ -1,0 +1,8 @@
+# Exclude system files
+AppData/
+*.log
+*.pyc
+__pycache__/
+*.pyo
+.env
+node_modules/
